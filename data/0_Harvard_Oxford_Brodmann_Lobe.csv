@@ -1,0 +1,49 @@
+harvard_oxford,brodmann,lobe
+Frontal Medial Cortex,10;11;12,Frontal
+Frontal Opercular Cortex,44;45;47,Frontal
+Frontal Orbital Cortex,11;12;47,Frontal
+Frontal Pole,10,Frontal
+"Inferior Frontal Gyrus, pars opercularis",44,Frontal
+"Inferior Frontal Gyrus, pars triangularis",45,Frontal
+Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex),6,Frontal
+Middle Frontal Gyrus,9;46,Frontal
+Paracingulate Gyrus,32,Frontal
+Precentral Gyrus,4;6,Frontal
+Superior Frontal Gyrus,6;8;9,Frontal
+"Cingulate Gyrus, anterior division",24;32,Limbic/Medial
+"Cingulate Gyrus, posterior division",23;31,Limbic/Medial
+Subcallosal Cortex,25,Limbic/Medial
+Cuneal Cortex,17;18;19,Occipital
+Insular Cortex,13,Limbic/Medial
+Intracalcarine Cortex,17,Occipital
+"Lateral Occipital Cortex, inferior division",19,Occipital
+"Lateral Occipital Cortex, superior division",19,Occipital
+Lingual Gyrus,17;18;19,Occipital
+Occipital Fusiform Gyrus,19;37,Occipital
+Occipital Pole,17;18,Occipital
+Supracalcarine Cortex,17,Occipital
+Angular Gyrus,39,Parietal
+Central Opercular Cortex,43,Parietal
+Parietal Opercular Cortex,40;43,Parietal
+Postcentral Gyrus,1;2;3,Parietal
+Precuneous Cortex,7;31,Parietal
+Superior Parietal Lobule,7,Parietal
+"Supramarginal Gyrus, anterior division",40,Parietal
+"Supramarginal Gyrus, posterior division",40,Parietal
+Heschl's Gyrus (includes H1 and H2),41;42,Temporal
+"Inferior Temporal Gyrus, anterior division",20,Temporal
+"Inferior Temporal Gyrus, posterior division",20,Temporal
+"Inferior Temporal Gyrus, temporooccipital part",20;37,Temporal
+"Middle Temporal Gyrus, anterior division",21,Temporal
+"Middle Temporal Gyrus, posterior division",21,Temporal
+"Middle Temporal Gyrus, temporooccipital part",21;37,Temporal
+"Parahippocampal Gyrus, anterior division",28;35;36,Temporal
+"Parahippocampal Gyrus, posterior division",36,Temporal
+Planum Polare,22;38,Temporal
+Planum Temporale,22;42,Temporal
+"Superior Temporal Gyrus, anterior division",22,Temporal
+"Superior Temporal Gyrus, posterior division",22,Temporal
+"Temporal Fusiform Cortex, anterior division",20;36;37,Temporal
+"Temporal Fusiform Cortex, posterior division",37,Temporal
+Temporal Occipital Fusiform Cortex,37,Temporal
+Temporal Pole,38,Temporal
