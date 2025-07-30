@@ -2,7 +2,7 @@
 MNI152-Cortex-ROI-Visualization
 
 Images created through the python codes:
-![](fig/4_channel_labels.png)
+<img src="fig/4_channel_labels.png" alt="4 channel labels" style="width:50%;">
 
 - The NMI152 standarized coordinates were used
 - The EEG channels coordinates determined in Okamoto M, et al., 2004 were used
