@@ -3,4 +3,6 @@ nibabel
 numpy
 scipy
 matplotlib
+plotly
+scikit-learn
 pandas
