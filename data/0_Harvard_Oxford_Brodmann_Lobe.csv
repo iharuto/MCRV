@@ -1,49 +1,49 @@
-harvard_oxford,brodmann,lobe
-Frontal Medial Cortex,10;11;12,Frontal
-Frontal Opercular Cortex,44;45;47,Frontal
-Frontal Orbital Cortex,11;12;47,Frontal
-Frontal Pole,10,Frontal
-"Inferior Frontal Gyrus, pars opercularis",44,Frontal
-"Inferior Frontal Gyrus, pars triangularis",45,Frontal
-Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex),6,Frontal
-Middle Frontal Gyrus,9;46,Frontal
-Paracingulate Gyrus,32,Frontal
-Precentral Gyrus,4;6,Frontal
-Superior Frontal Gyrus,6;8;9,Frontal
-"Cingulate Gyrus, anterior division",24;32,Limbic/Medial
-"Cingulate Gyrus, posterior division",23;31,Limbic/Medial
-Subcallosal Cortex,25,Limbic/Medial
-Cuneal Cortex,17;18;19,Occipital
-Insular Cortex,13,Limbic/Medial
-Intracalcarine Cortex,17,Occipital
-"Lateral Occipital Cortex, inferior division",19,Occipital
-"Lateral Occipital Cortex, superior division",19,Occipital
-Lingual Gyrus,17;18;19,Occipital
-Occipital Fusiform Gyrus,19;37,Occipital
-Occipital Pole,17;18,Occipital
-Supracalcarine Cortex,17,Occipital
-Angular Gyrus,39,Parietal
-Central Opercular Cortex,43,Parietal
-Parietal Opercular Cortex,40;43,Parietal
-Postcentral Gyrus,1;2;3,Parietal
-Precuneous Cortex,7;31,Parietal
-Superior Parietal Lobule,7,Parietal
-"Supramarginal Gyrus, anterior division",40,Parietal
-"Supramarginal Gyrus, posterior division",40,Parietal
-Heschl's Gyrus (includes H1 and H2),41;42,Temporal
-"Inferior Temporal Gyrus, anterior division",20,Temporal
-"Inferior Temporal Gyrus, posterior division",20,Temporal
-"Inferior Temporal Gyrus, temporooccipital part",20;37,Temporal
-"Middle Temporal Gyrus, anterior division",21,Temporal
-"Middle Temporal Gyrus, posterior division",21,Temporal
-"Middle Temporal Gyrus, temporooccipital part",21;37,Temporal
-"Parahippocampal Gyrus, anterior division",28;35;36,Temporal
-"Parahippocampal Gyrus, posterior division",36,Temporal
-Planum Polare,22;38,Temporal
-Planum Temporale,22;42,Temporal
-"Superior Temporal Gyrus, anterior division",22,Temporal
-"Superior Temporal Gyrus, posterior division",22,Temporal
-"Temporal Fusiform Cortex, anterior division",20;36;37,Temporal
-"Temporal Fusiform Cortex, posterior division",37,Temporal
-Temporal Occipital Fusiform Cortex,37,Temporal
-Temporal Pole,38,Temporal
+harvard_oxford,brodmann,lobe,MotorSensory,Modality,MotorSensoryModality
+Frontal Medial Cortex,10;11;12,Frontal,Executive; Emotion,NA; NA,Medial prefrontal cortex (executive); Ventromedial prefrontal cortex (emotion)
+Frontal Opercular Cortex,44;45;47,Frontal,Language,NA,Broca's area (speech production)
+Frontal Orbital Cortex,11;12;47,Frontal,Executive; Emotion,NA; NA,Orbitofrontal cortex (reward/emotion); Orbitofrontal cortex (decision-making)
+Frontal Pole,10,Frontal,Executive,NA,Frontopolar cortex (executive association)
+"Inferior Frontal Gyrus, pars opercularis",44,Frontal,Language,NA,Broca's area (pars opercularis)
+"Inferior Frontal Gyrus, pars triangularis",45,Frontal,Language,NA,Broca's area (pars triangularis)
+Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex),6,Frontal,Motor,2,Supplementary motor cortex (SMA)
+Middle Frontal Gyrus,9;46,Frontal,Executive,NA,Dorsolateral prefrontal cortex (executive function)
+Paracingulate Gyrus,32,Frontal,Emotion,NA,Dorsal anterior cingulate cortex (cognitive/affective control)
+Precentral Gyrus,4;6,Frontal,Motor,1; 2,Primary motor cortex; Premotor cortex
+Superior Frontal Gyrus,6;8;9,Frontal,Motor,2; NA,Premotor cortex (incl. frontal eye field); Dorsolateral prefrontal cortex
+"Cingulate Gyrus, anterior division",24;32,Limbic/Medial,Emotion,NA,Anterior cingulate cortex (emotion/cognitive control)
+"Cingulate Gyrus, posterior division",23;31,Limbic/Medial,Emotion,NA,Posterior cingulate cortex (memory/default mode)
+Subcallosal Cortex,25,Limbic/Medial,Emotion,NA,Subgenual cingulate cortex (mood regulation)
+Cuneal Cortex,17;18;19,Occipital,Visual,1; 2; 3,Primary visual cortex (V1); Secondary visual cortex (V2); Visual association cortex
+Insular Cortex,13,Limbic/Medial,Gustatory; Emotion,1; NA,Primary gustatory cortex (insula); Visceral sensory cortex (interoception)
+Intracalcarine Cortex,17,Occipital,Visual,1,Primary visual cortex (V1)
+"Lateral Occipital Cortex, inferior division",19,Occipital,Visual,3,Visual association cortex (ventral stream)
+"Lateral Occipital Cortex, superior division",19,Occipital,Visual,3,Visual association cortex (dorsal stream)
+Lingual Gyrus,17;18;19,Occipital,Visual,1; 2; 3,Primary visual cortex (V1); Secondary visual cortex (V2); Visual association cortex
+Occipital Fusiform Gyrus,19;37,Occipital,Visual,3,Visual association cortex (fusiform gyrus)
+Occipital Pole,17;18,Occipital,Visual,1; 2,Primary visual cortex (V1); Secondary visual cortex (V2)
+Supracalcarine Cortex,17,Occipital,Visual,1,Primary visual cortex (V1)
+Angular Gyrus,39,Parietal,Language,NA; NA,Angular gyrus (language/semantic); Multimodal association cortex
+Central Opercular Cortex,43,Parietal,Gustatory,1,Primary gustatory cortex (parietal operculum)
+Parietal Opercular Cortex,40;43,Parietal,Somatosensory,2; 1,Secondary somatosensory cortex (S2); Primary gustatory cortex
+Postcentral Gyrus,1;2;3,Parietal,Somatosensory,1,Primary somatosensory cortex
+Precuneous Cortex,7;31,Parietal,Emotion,NA; NA,"Precuneus (visuospatial imagery, DMN); Posterior cingulate (limbic)"
+Superior Parietal Lobule,7,Parietal,Somatosensory,3,Somatosensory association cortex (spatial processing)
+"Supramarginal Gyrus, anterior division",40,Parietal,Language,NA; NA,Supramarginal gyrus (phonological processing); Multimodal association cortex
+"Supramarginal Gyrus, posterior division",40,Parietal,Language,NA; NA,Supramarginal gyrus (language integration); Multimodal association cortex
+Heschl's Gyrus (includes H1 and H2),41;42,Temporal,Auditory,1; 2,Primary auditory cortex (Heschl's gyrus); Secondary auditory cortex
+"Inferior Temporal Gyrus, anterior division",20,Temporal,Visual,3,Visual association cortex (object memory)
+"Inferior Temporal Gyrus, posterior division",20,Temporal,Visual,3,Visual association cortex (object recognition)
+"Inferior Temporal Gyrus, temporooccipital part",20;37,Temporal,Visual,3,Visual association cortex (ventral stream/fusiform)
+"Middle Temporal Gyrus, anterior division",21,Temporal,Language,NA; NA,Middle temporal gyrus (semantic language processing); Association cortex
+"Middle Temporal Gyrus, posterior division",21,Temporal,Language,NA; NA,Middle temporal gyrus (language comprehension); Association cortex
+"Middle Temporal Gyrus, temporooccipital part",21;37,Temporal,Visual; Language,3; NA,Visual association cortex (motion/visual integration); Wernicke's area (language comprehension)
+"Parahippocampal Gyrus, anterior division",28;35;36,Temporal,Emotion,NA,Entorhinal cortex (memory encoding)
+"Parahippocampal Gyrus, posterior division",36,Temporal,Emotion,NA,Parahippocampal cortex (memory consolidation)
+Planum Polare,22;38,Temporal,Auditory,3,Auditory association cortex
+Planum Temporale,22;42,Temporal,Auditory; Language,2; NA,Secondary auditory cortex; Wernicke's area (language comprehension)
+"Superior Temporal Gyrus, anterior division",22,Temporal,Auditory,3,Auditory association cortex (anterior STG)
+"Superior Temporal Gyrus, posterior division",22,Temporal,Auditory; Language,NA; 3,Wernicke's area (language comprehension); Auditory association cortex
+"Temporal Fusiform Cortex, anterior division",20;36;37,Temporal,Visual; Emotion,3; NA,Visual association cortex (fusiform gyrus); Perirhinal cortex (limbic memory)
+"Temporal Fusiform Cortex, posterior division",37,Temporal,Visual,3,Visual association cortex (fusiform gyrus)
+Temporal Occipital Fusiform Cortex,37,Temporal,Visual,3,Visual association cortex (fusiform gyrus)
+Temporal Pole,38,Temporal,Visual; Emotion,NA; 3,"Temporal pole (semantic memory, emotion); High-level visual association cortex"
